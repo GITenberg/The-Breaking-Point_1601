@@ -1,0 +1,33 @@
+_repo: The-Breaking-Point_1601
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rinehart, Mary Roberts
+    birthdate: 1876
+    deathdate: 1958
+    gutenberg_agent_id: '183'
+    url: http://www.gutenberg.org/2009/agents/183
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Roberts_Rinehart
+description: Known for her tightly plotted mysteries, American author Mary Roberts
+  Rinehart hits it out of the park with The Breaking Point. A gem from the golden
+  era of detective fiction, the novel follows seemingly timid protagonist Elizabeth
+  Wheeler, whose placid existence is thrown into disarray by a murder. Forced into
+  the role of detective, Elizabeth tries to set things right again. Dive into The
+  Breaking Point for an enthralling whodunit.
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '1999-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1601'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Murder -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Detective and mystery stories'
+- GITenberg
+title: The Breaking Point
+url: http://www.gutenberg.org/ebooks/1601
