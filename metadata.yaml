@@ -1,5 +1,8 @@
 _repo: The-Breaking-Point_1601
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Rinehart, Mary Roberts
@@ -14,6 +17,8 @@ description: Known for her tightly plotted mysteries, American author Mary Rober
   Wheeler, whose placid existence is thrown into disarray by a murder. Forced into
   the role of detective, Elizabeth tries to set things right again. Dive into The
   Breaking Point for an enthralling whodunit.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1601#The-Breaking-Point
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '1999-01-01'
 gutenberg_type: Text
